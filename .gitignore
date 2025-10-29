@@ -1,0 +1,17 @@
+in/*
+out/*
+logs/*
+/build
+/dist
+*.jpeg
+*.png
+*.jpg
+*.tiff
+*.webp
+*.heic
+*.heif*
+*.bmp
+*.gif
+*.zip
+*.spec
+start.bat
