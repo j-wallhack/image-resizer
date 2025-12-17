@@ -15,3 +15,4 @@ logs/*
 *.zip
 *.spec
 start.bat
+__pycache__
